@@ -1,2 +1,2 @@
 # ifa
-Inference engine array
+This repo hosts "inference engine array" architecture and design.
