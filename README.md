@@ -1,2 +1,2 @@
 # ifa
-Inference Engine Array
+Inference engine array
